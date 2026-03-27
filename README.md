@@ -10,7 +10,7 @@ This is a Java-based weather application that retrieves and displays weather dat
 
 ## Technologies Used
 - Java
-- JavaFX (if used)
+- JavaFX
 - Weather API
 
 ## What I Learned
